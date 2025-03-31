@@ -1,0 +1,13 @@
+.env
+
+*venv
+
+**migrations
+/!**__init__.py
+
+.vscode
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
